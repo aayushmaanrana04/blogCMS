@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c2f40069ebb9a8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe0fd7011cd0c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2021834b06a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A \"first commit\" kind of a blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A \"first commit\" kind of a blog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0ebaa4f259ffdba",
+    "type": "split",
+    "children": [
+      {
+        "id": "49367d4ce35fa9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584cb445aad31e67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d75c110b2bcf5655",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8cd6179950118cb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "046e1dc026e5b41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ac7b3fb24da0e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047c4bdbc989d5e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A \"first commit\" kind of a blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A \"first commit\" kind of a blog"
+            }
+          },
+          {
+            "id": "88851ab4996f4b99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A \"first commit\" kind of a blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A \"first commit\" kind of a blog"
+            }
+          },
+          {
+            "id": "1a0d74f91db5cfb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0345bab5535a687",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a41197185f096405",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A \"first commit\" kind of a blog.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of A \"first commit\" kind of a blog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9b2021834b06a4a2",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "A \"first commit\" kind of a blog.md",
+    "create a link.md"
+  ]
+}
