@@ -13,7 +13,18 @@ One thing AI has advanced in is consuming the soul out of the communities and pl
 
 Fragments is my S3. I will share not just my thoughts but also my creations. I used to love posting stuff on IG before I got bored of it and obviously got occupied with my finger exercises. This will serve as my new dumping ground of thoughts and ideas for me and all of you to see.
 
-I love to experiment with different mediums, be it code, visual, or sometimes music. Fragments was one of those experiments; a friend asked me what would be the easiest way to create and publish blogs. Let me explain how this works. This current article is part of a git repository; I wrote this in Obsidian as a markdown file pushed to git, and my frontend calls for that file. The metadata is stored in what is called a frontrunner. It acts as metadata for this file, which is stored on top of this file. This is how I am using GitHub as a database for this.
+I love to experiment with different mediums, be it code, visual, or sometimes music. Fragments is one of those experiments; a friend asked me what would be the easiest way to create and publish blogs. Let me explain how this works. This current article is part of a git repository; I wrote this in Obsidian as a markdown file pushed to git, and my frontend calls for that file. The metadata is stored in what is called a front matter. It acts as metadata for this file, which is stored on top of this file. This is how I am using GitHub as a database for this.
+
+update: After deploying my blog to production, I faced a rate limit on GitHub. I had planned to add server-side caching to this but did not expect the limit to hit so soon. This approach had a few flaws:
+
+- The homepage gets all files and reads all of them (the front matter, i.e., _the metadata, exists inside the file_).
+
+- There was no caching.
+
+To tackle this, I added 5 mins of caching to the homepage API call and 10 mins to each blog page. Secondly, on my blog repo, I added a pre-commit hook that reads all the updated files and adds the frontmatter into a JSON. Then on my homepage, I just read the JSON, which significantly reduces the number of calls.
+
+Before, if there were 10 blogs, there were 10 + 1 calls (one for listing and the other for metadata), now reduced to 1 call for N number of blogs.
+Before, if there were 10 blogs, there where 10 + 1 calls ( one for listing, other for metadata ), now reduced to 1 call for N number of blogs.
 
 ![Workflow explanation](https://raw.githubusercontent.com/aayushmaanrana04/blogCMS/main/assets/0001.png)
 

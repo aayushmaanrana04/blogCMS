@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "c2f40069ebb9a8c4",
+    "id": "0adeff311c27efe0",
     "type": "split",
     "children": [
       {
-        "id": "451fc04d666b4ad3",
+        "id": "9924644eb4847be0",
         "type": "tabs",
         "children": [
           {
-            "id": "7dcf0798ced22710",
+            "id": "c2d0775db33d1800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Origins of Fragments.md",
+                "file": "blogs/Origins of Fragments.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b0ebaa4f259ffdba",
+    "id": "de08f67ee442c015",
     "type": "split",
     "children": [
       {
-        "id": "49367d4ce35fa9b2",
+        "id": "57357d200fb52f30",
         "type": "tabs",
         "children": [
           {
-            "id": "584cb445aad31e67",
+            "id": "6980ad10dadf734f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d75c110b2bcf5655",
+            "id": "19340fdfe3d2729d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8cd6179950118cb8",
+            "id": "c0bf1d4b8c6438b3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "046e1dc026e5b41f",
+    "id": "a582e0756db36927",
     "type": "split",
     "children": [
       {
-        "id": "6ac7b3fb24da0e6c",
+        "id": "d1d7a8c291baad87",
         "type": "tabs",
         "children": [
           {
-            "id": "047c4bdbc989d5e4",
+            "id": "9c550c51fe154351",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A \"first commit\" kind of a blog.md",
+                "file": "blogs/Origins of Fragments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A \"first commit\" kind of a blog"
+              "title": "Backlinks for Origins of Fragments"
             }
           },
           {
-            "id": "88851ab4996f4b99",
+            "id": "80a63c10a48491d7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A \"first commit\" kind of a blog.md",
+                "file": "blogs/Origins of Fragments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A \"first commit\" kind of a blog"
+              "title": "Outgoing links from Origins of Fragments"
             }
           },
           {
-            "id": "1a0d74f91db5cfb5",
+            "id": "c634c74700e48408",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "a0345bab5535a687",
+            "id": "184c73cc4106ac07",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "a41197185f096405",
+            "id": "b9efdf92005f5ade",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A \"first commit\" kind of a blog.md",
+                "file": "blogs/Origins of Fragments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A \"first commit\" kind of a blog"
+              "title": "Outline of Origins of Fragments"
             }
           }
         ]
@@ -183,17 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "584cb445aad31e67",
+  "active": "c2d0775db33d1800",
   "lastOpenFiles": [
-    "Untitled",
-    "Pasted image 20260111182200.png",
-    "0001.png",
-    "001.png",
-    "origin-of-fragments.png",
-    "Origins of Fragments.md",
-    "A \"first commit\" kind of a blog.md",
-    "Untitled.canvas",
-    "Welcome.md",
-    "create a link.md"
+    "blogs/Untitled.md"
   ]
 }
