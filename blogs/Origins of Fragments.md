@@ -16,7 +16,7 @@ Fragments is my S3. I will share not just my thoughts but also my creations. I u
 I love to experiment with different mediums, be it code, visual, or sometimes music. Fragments is one of those experiments; a friend asked me what would be the easiest way to create and publish blogs. Let me explain how this works. This current article is part of a git repository; I wrote this in Obsidian as a markdown file pushed to git, and my frontend calls for that file. The metadata is stored in what is called a front matter. It acts as metadata for this file, which is stored on top of this file. This is how I am using GitHub as a database for this.
 
 ---
-```
+
 update:
 
 After deploying my blog to production, I faced a rate limit on GitHub. I had planned to add server-side caching to this but did not expect the limit to hit so soon. I implemented a few things:
@@ -25,7 +25,7 @@ After deploying my blog to production, I faced a rate limit on GitHub. I had pla
 - There was no caching so i added a 5 min caching to homepage api and 10 min caching per blog.
 
 After these changes I hope my website can handle the 0 number of users it will have per day :)
-```
+
 
 
 
