@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/commentsWithUtterances.md",
+                "file": "blogs/Comments With Utterances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commentsWithUtterances"
+              "title": "Comments With Utterances"
             }
           }
         ]
@@ -183,9 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2d0775db33d1800",
+  "active": "6980ad10dadf734f",
   "lastOpenFiles": [
     "blogs/Origins of Fragments.md",
-    "blogs/commentsWithUtterances.md"
+    "blogs/Comments With Utterances.md"
   ]
 }
