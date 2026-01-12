@@ -1,23 +1,23 @@
 {
   "blogs": [
     {
+      "filename": "Comments with utterances",
+      "path": "blogs/Comments with utterances.md",
+      "title": "Adding Comments to my website with utterances",
+      "excerpt": "While exploring the internet, i found another way to leech off of github's resouces",
+      "date": "2026-01-12",
+      "category": "Cool Stuff",
+      "author": "pattahgobhi",
+      "readTime": 1,
+      "public": false
+    },
+    {
       "filename": "Origins of Fragments",
       "path": "blogs/Origins of Fragments.md",
       "title": "A \"first commit\" kind of a blog",
       "excerpt": "Just a little rant and preview of my blogging workflow",
       "date": "2026-01-11",
       "category": "Rant",
-      "author": "pattahgobhi",
-      "readTime": 1,
-      "public": true
-    },
-    {
-      "filename": "commentsWithUtterances",
-      "path": "blogs/commentsWithUtterances.md",
-      "title": "Adding Comments to my website with utterances",
-      "excerpt": "While exploring the internet, i found another way to leech off of github's resouces",
-      "date": "2026-01-12",
-      "category": "Cool Stuff",
       "author": "pattahgobhi",
       "readTime": 1,
       "public": true

@@ -5,7 +5,7 @@ date: 2026-01-12
 category: Cool Stuff
 author: pattahgobhi
 readTime: 1
-public: true
+public: false
 ---
 
 Going through the nooks and cavities of [Nemo's website](https://captnemo.in/), I found a perfect addition to Fragments. Based on the same principle of leeching off of Big Techs' resources, [Utterances](https://utteranc.es/) is a simple solution for adding comments on websites.
