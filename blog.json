@@ -24,10 +24,11 @@
     },
     {
       "filename": "devil-teeth",
-      "title": "Dentist Appointment",
+      "title": "Dental Checkup",
       "date": "2026-01-17",
       "category": "post",
       "author": "pattahgobhi",
+      "image": "https://fragments.pattahgobhi.in/0001.png",
       "public": false
     }
   ]
